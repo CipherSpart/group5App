@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">messageApp</string>
+    <string name="deleteProduct">Delete Product</string>
+    <string name="message_app">Message App</string>
+    <string name="addProduct">Add Product</string>
+    <string name="editProduct">Edit Product</string>
+    <string name="viewProduct">View Product</string>
+    <string name="view_product_page">View Product Page</string>
+    <string name="product_name">Product Name:</string>
+    <string name="add">ADD</string>
+    <string name="add_product_page">Add Product Page</string>
+    <string name="delete_product_page">Delete Product Page</string>
+    <string name="edit_product_page">Edit Product Page</string>
+</resources>
